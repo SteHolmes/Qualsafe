@@ -1,5 +1,5 @@
 # Qualsafe
-A mock-up application for displaying unpaid course listings in a responsive page layout. 
+A mock-up Vue application for displaying unpaid course listings in a responsive page layout. 
 
 ## Project setup
 ```
