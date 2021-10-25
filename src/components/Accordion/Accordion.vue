@@ -47,7 +47,7 @@ export default {
   &-header {
     font-weight: bold;
     cursor: pointer;
-    color: #024699;
+    color: #3381a2;
     transition: color 0.3s ease-in;
 
     &:after {
@@ -61,7 +61,7 @@ export default {
     }
 
     &:hover {
-      color: lighten(#024699, 15%);
+      color: lighten(#3381a2, 15%);
     }
   }
 

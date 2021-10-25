@@ -23,14 +23,7 @@ export default {
 
 <style lang="scss">
 body {
-  background-image: linear-gradient(
-    to left top,
-    #ceddf3,
-    #c6dbf1,
-    #bed8ef,
-    #b5d6ec,
-    #add4e8
-  );
+  background-image: linear-gradient(to right bottom, #344a69, #366d90, #3093b3, #31bbcf, #4ce3e3);
   min-height: 100vh;
 }
 
